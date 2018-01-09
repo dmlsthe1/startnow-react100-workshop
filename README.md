@@ -16,6 +16,4 @@ npm start
 
 ## Contributing
 
-* Please follow the AirBnB styleguide.
-
 * Open a pull request, all contributions will be considered.
